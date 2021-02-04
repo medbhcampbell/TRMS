@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+nav {
+  background-color:black;
+  padding-top: 3%;
+}
+
+nav > h1 {
+  font-size: xxx-large;
+  color: white;
+  text-align: center;
+}
+
+nav > h2 {
+  font-size: x-large;
+  color: white;
+}
+
+nav > a {
+  font-size: xx-large;
+}
+
+h2 {
+  font-size: xx-large;
+}
+
+a {
+  font-size: xx-large;
+  color: #9a4d00;
+}
+
+a:hover {
+  font-size: xx-large;
+  color: #9a4d00;
+}
+
+main > a {
+  font-size: large;
+}
+
+#mainsection {
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+
+.warning {
+  color: red;
+}
